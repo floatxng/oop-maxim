@@ -1,0 +1,54 @@
+Start testing: Dec 15 14:16 MSK
+----------------------------------------------------------
+1/1 Testing: FiguresTests
+1/1 Test: FiguresTests
+Command: "/mnt/c/Users/Max/Downloads/oop/oop4/build/FiguresTests"
+Directory: /mnt/c/Users/Max/Downloads/oop/oop4/build
+"FiguresTests" start time: Dec 15 14:16 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 9 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from TrapezoidTest
+[ RUN      ] TrapezoidTest.AreaCalculation
+[       OK ] TrapezoidTest.AreaCalculation (0 ms)
+[ RUN      ] TrapezoidTest.Validity
+[       OK ] TrapezoidTest.Validity (0 ms)
+[----------] 2 tests from TrapezoidTest (0 ms total)
+
+[----------] 2 tests from RhombTest
+[ RUN      ] RhombTest.AreaCalculation
+[       OK ] RhombTest.AreaCalculation (0 ms)
+[ RUN      ] RhombTest.Validity
+[       OK ] RhombTest.Validity (0 ms)
+[----------] 2 tests from RhombTest (0 ms total)
+
+[----------] 2 tests from PentagonTest
+[ RUN      ] PentagonTest.AreaCalculation
+[       OK ] PentagonTest.AreaCalculation (0 ms)
+[ RUN      ] PentagonTest.Validity
+[       OK ] PentagonTest.Validity (0 ms)
+[----------] 2 tests from PentagonTest (0 ms total)
+
+[----------] 3 tests from FiguresManagerTest
+[ RUN      ] FiguresManagerTest.AddAndTotalArea
+[       OK ] FiguresManagerTest.AddAndTotalArea (0 ms)
+[ RUN      ] FiguresManagerTest.DeleteFigure
+[       OK ] FiguresManagerTest.DeleteFigure (0 ms)
+[ RUN      ] FiguresManagerTest.DeleteInvalidFigure
+[       OK ] FiguresManagerTest.DeleteInvalidFigure (8 ms)
+[----------] 3 tests from FiguresManagerTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 4 test suites ran. (9 ms total)
+[  PASSED  ] 9 tests.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"FiguresTests" end time: Dec 15 14:16 MSK
+"FiguresTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 14:16 MSK

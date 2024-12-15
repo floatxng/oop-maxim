@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FiguresApp.dir/main.cpp.o -o FiguresApp  libFiguresLib.a 

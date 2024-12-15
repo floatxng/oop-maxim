@@ -1,0 +1,3 @@
+/mnt/c/Users/Max/Downloads/oop7/build/CMakeFiles/BalagurFate3Editor.dir
+/mnt/c/Users/Max/Downloads/oop7/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Max/Downloads/oop7/build/CMakeFiles/rebuild_cache.dir

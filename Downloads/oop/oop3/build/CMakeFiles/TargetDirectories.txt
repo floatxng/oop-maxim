@@ -1,0 +1,6 @@
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/FiguresLib.dir
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/FiguresApp.dir
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/FiguresTests.dir
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/test.dir
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Max/Downloads/oop3/build/CMakeFiles/rebuild_cache.dir

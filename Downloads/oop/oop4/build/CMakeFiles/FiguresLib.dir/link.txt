@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFiguresLib.a CMakeFiles/FiguresLib.dir/src/Figure.cpp.o CMakeFiles/FiguresLib.dir/src/FiguresManager.cpp.o CMakeFiles/FiguresLib.dir/src/Polygons.cpp.o
+/usr/bin/ranlib libFiguresLib.a

@@ -1,0 +1,8 @@
+/mnt/c/Users/Max/Downloads/oop6/build/CMakeFiles/BalagurFate3Editor.dir
+/mnt/c/Users/Max/Downloads/oop6/build/CMakeFiles/test.dir
+/mnt/c/Users/Max/Downloads/oop6/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Max/Downloads/oop6/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Max/Downloads/oop6/build/test/CMakeFiles/BalagurFate3EditorTests.dir
+/mnt/c/Users/Max/Downloads/oop6/build/test/CMakeFiles/test.dir
+/mnt/c/Users/Max/Downloads/oop6/build/test/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Max/Downloads/oop6/build/test/CMakeFiles/rebuild_cache.dir

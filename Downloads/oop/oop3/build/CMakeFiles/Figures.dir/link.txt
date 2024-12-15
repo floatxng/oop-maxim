@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Figures.dir/src/Figure.cpp.o CMakeFiles/Figures.dir/src/FiguresManager.cpp.o CMakeFiles/Figures.dir/src/Polygons.cpp.o CMakeFiles/Figures.dir/src/main.cpp.o -o Figures 

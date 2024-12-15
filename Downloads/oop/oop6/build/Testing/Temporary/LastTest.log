@@ -1,0 +1,31 @@
+Start testing: Dec 15 03:04 MSK
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/mnt/c/Users/Max/Downloads/oop6/BalagurFate3EditorTests"
+Directory: /mnt/c/Users/Max/Downloads/oop6/build/test
+"AllTests" start time: Dec 15 03:04 MSK
+Output:
+----------------------------------------------------------
+"/mnt/c/Users/Max/Downloads/oop6/build/test/logs/log.txt"Перед боем:
+NPC: Smaug (Dragon) at (100, 100) [Alive]
+NPC: Ferdinand (Bull) at (105, 101) [Alive]
+NPC: Kermit (Frog) at (108, 102) [Alive]
+NPC: Toro (Bull) at (200, 200) [Alive]
+NPC: Freddy (Frog) at (202, 202) [Alive]
+NPC Ferdinand (Bull) был убит!
+NPC Freddy (Frog) был убит!
+
+После боя:
+NPC: Smaug (Dragon) at (100, 100) [Alive]
+NPC: Kermit (Frog) at (108, 102) [Alive]
+NPC: Toro (Bull) at (200, 200) [Alive]
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Dec 15 03:04 MSK
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 15 03:04 MSK
